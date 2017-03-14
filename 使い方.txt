@@ -1,13 +1,13 @@
 npm install
-
+npm install -g gulp
 npm run build
 
-ˆÈã
+ä»¥ä¸Š
 
-*‚È‚ñ‚©ƒGƒ‰[o‚½ê‡‚ÍA
+*ãªã‚“ã‹ã‚¨ãƒ©ãƒ¼å‡ºãŸå ´åˆã¯ã€
 npm install rollup --global
 
-‚â‚Á‚Ä‚©‚ç‚ÌAŒÂ•Êƒrƒ‹ƒh
+ã‚„ã£ã¦ã‹ã‚‰ã®ã€å€‹åˆ¥ãƒ“ãƒ«ãƒ‰
 rollup src/threeXfileLoader.js
 
-‚Á‚Ä‚â‚é‚ÆAƒGƒ‰[‹³‚¦‚Ä‚­‚ê‚é
+ã£ã¦ã‚„ã‚‹ã¨ã€ã‚¨ãƒ©ãƒ¼æ•™ãˆã¦ãã‚Œã‚‹
